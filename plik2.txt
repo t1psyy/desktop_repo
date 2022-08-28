@@ -11,4 +11,5 @@ dsfdsfsdfgdsgd
 
 fdsfdsgsdgsd
 
-modyfikacja 2
+mod3
+>>>>>>> Stashed changes
